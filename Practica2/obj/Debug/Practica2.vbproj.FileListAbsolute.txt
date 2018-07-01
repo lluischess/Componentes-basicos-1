@@ -1,0 +1,11 @@
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\bin\Debug\Practica2.xml
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\obj\Debug\Practica2.vbprojResolveAssemblyReference.cache
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\obj\Debug\Practica2.Resources.resources
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\obj\Debug\Practica2.vbproj.GenerateResource.Cache
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\obj\Debug\Practica2.xml
+C:\Users\lluis\Source\Repos\Visualbasic\Practica2\Practica2\obj\Debug\Practica2.pdb
